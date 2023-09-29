@@ -1,2 +1,3 @@
 # PreviouslyOn
-Réalision d'une application mobile avec REACT Native dans le même genre que TvShowTime en utilisant l'API Betaseries.
+Application mobile en ReactNative avec Expo. 
+Utilisation de l'API BetaSeries.
